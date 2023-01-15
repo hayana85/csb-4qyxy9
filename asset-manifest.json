@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hayana85.github.io/csb-4qyxy9/static/css/main.daa80b9e.chunk.css",
+    "main.js": "https://hayana85.github.io/csb-4qyxy9/static/js/main.dc3ef3ef.chunk.js",
+    "main.js.map": "https://hayana85.github.io/csb-4qyxy9/static/js/main.dc3ef3ef.chunk.js.map",
+    "runtime-main.js": "https://hayana85.github.io/csb-4qyxy9/static/js/runtime-main.a95a99fb.js",
+    "runtime-main.js.map": "https://hayana85.github.io/csb-4qyxy9/static/js/runtime-main.a95a99fb.js.map",
+    "static/js/2.b497861f.chunk.js": "https://hayana85.github.io/csb-4qyxy9/static/js/2.b497861f.chunk.js",
+    "static/js/2.b497861f.chunk.js.map": "https://hayana85.github.io/csb-4qyxy9/static/js/2.b497861f.chunk.js.map",
+    "index.html": "https://hayana85.github.io/csb-4qyxy9/index.html",
+    "static/css/main.daa80b9e.chunk.css.map": "https://hayana85.github.io/csb-4qyxy9/static/css/main.daa80b9e.chunk.css.map",
+    "static/js/2.b497861f.chunk.js.LICENSE.txt": "https://hayana85.github.io/csb-4qyxy9/static/js/2.b497861f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a95a99fb.js",
+    "static/js/2.b497861f.chunk.js",
+    "static/css/main.daa80b9e.chunk.css",
+    "static/js/main.dc3ef3ef.chunk.js"
+  ]
+}
